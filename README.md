@@ -43,7 +43,7 @@
 
 # 📊 GitHub Stats:
 
-<img src="https://streak-stats.demolab.com?user=TusharDwarka&theme=blueberry&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=TusharDwarka&theme=blueberry&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
 <br>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=TusharDwarka&radius=16&theme=tokyo-night&area=true&order=5" height="300" alt="activity-graph graph" />
 
