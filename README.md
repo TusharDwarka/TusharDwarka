@@ -1,4 +1,4 @@
-<img align="right" height="150" src="https://media.giphy.com/media/QMHoU66sBXqqLqYvGO/giphy.gif" alt="This is fine dog" />
+<img align="right" height="150" src="./this-is-fine.gif" alt="This is fine dog" />
 
 # Hi, I'm Tushar 👋
 
