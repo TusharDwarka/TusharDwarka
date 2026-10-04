@@ -4,6 +4,7 @@ on:
   workflow_dispatch:
   push: {paths: [".github/scripts/activity_graph.py"]}
 permissions: {contents: write}
+concurrency: activity-graph
 jobs:
   draw:
     runs-on: ubuntu-latest
