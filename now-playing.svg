@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="400" height="104" viewBox="0 0 400 104">
+  <style>
+    .t{font:600 15px 'Segoe UI',Ubuntu,Helvetica,Arial,sans-serif;fill:#fff}
+    .a{font:400 13px 'Segoe UI',Ubuntu,Helvetica,Arial,sans-serif;fill:#b3b3b3}
+    .l{font:700 10px 'Segoe UI',Ubuntu,Helvetica,Arial,sans-serif;fill:#1DB954;letter-spacing:1.5px}
+    .bar{fill:#1DB954;transform-box:fill-box;transform-origin:bottom}
+    .b1{animation:eq .9s ease-in-out infinite alternate}
+    .b2{animation:eq .7s ease-in-out .2s infinite alternate}
+    .b3{animation:eq 1.1s ease-in-out .1s infinite alternate}
+    .b4{animation:eq .8s ease-in-out .3s infinite alternate}
+    .p{animation:prog 213s linear infinite}
+    @keyframes eq{from{transform:scaleY(.2)}to{transform:scaleY(1)}}
+    @keyframes prog{from{width:0}to{width:262px}}
+  </style>
+  <rect width="400" height="104" rx="10" fill="#181818"/>
+  <clipPath id="c"><rect x="12" y="12" width="80" height="80" rx="6"/></clipPath>
+  <image clip-path="url(#c)" x="12" y="12" width="80" height="80" preserveAspectRatio="xMidYMid slice" xlink:href="data:image/jpeg;base64,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"/>
+  <text class="l" x="108" y="28">NOW PLAYING</text>
+  <text class="t" x="108" y="50">Never Gonna Give You Up</text>
+  <text class="a" x="108" y="69">Rick Astley</text>
+  <rect x="108" y="82" width="262" height="4" rx="2" fill="#404040"/>
+  <rect class="p" x="108" y="82" width="0" height="4" rx="2" fill="#1DB954"/>
+  <g transform="translate(352 20)">
+    <rect class="bar b1" x="0" y="0" width="4" height="16" rx="1"/>
+    <rect class="bar b2" x="6" y="0" width="4" height="16" rx="1"/>
+    <rect class="bar b3" x="12" y="0" width="4" height="16" rx="1"/>
+    <rect class="bar b4" x="18" y="0" width="4" height="16" rx="1"/>
+  </g>
+</svg>
