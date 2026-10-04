@@ -1,54 +1,57 @@
-<img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzVvOTRqcndwa2FnZnd5ZTcwZzE4aWs5MmF2cjNsaTNlMTJhbWNpcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/g7GKcSzwQfugw/giphy.gif" />
+<img align="right" height="150" src="https://media.giphy.com/media/QMHoU66sBXqqLqYvGO/giphy.gif" alt="This is fine dog" />
 
 # Hi, I'm Tushar 👋
 
-**Full-stack & mobile developer** who builds apps people actually use — Flutter apps, web tools, ML experiments and the odd game in C.
+**Data Science student** who likes turning messy data into answers — and occasionally shipping the app around it.
 
-- 🔭 Currently building **[UOMPerApp](https://github.com/TusharDwarka/UOMPerApp)**, a Flutter timetable & study-group app
-- 🌱 Exploring Flutter, Firebase, PyTorch and Cloudflare Workers
-- 🎨 Also into design: Adobe suite, UI and motion graphics
-- 💬 Ask me about Flutter, Python, or making a UI not look like 2009
+- 📊 Studying Data Science: statistics, machine learning, data analysis
+- 🔬 Working with Python, pandas, NumPy, SciPy and PyTorch
+- ☀️ Recent: **[ROI-solar-photovoltaic](https://github.com/TusharDwarka/ROI-solar-photovoltaic)**, an ROI analysis of solar PV
+- 🛠️ Side projects: web tools, mobile apps and a card game in C
+- 💬 Ask me about Python, data wrangling or ML
 
 <br clear="both">
 
-### 🎧 Now Playing
+### <img src="https://cdn.simpleicons.org/spotify/1DB954" height="20" alt="Spotify" /> Now Playing
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="./now-playing.svg" alt="Now playing: Never Gonna Give You Up by Rick Astley" width="400" /></a>
 
 ### 🚀 Featured Projects
 
-<a href="https://github.com/TusharDwarka/UOMPerApp"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TusharDwarka&repo=UOMPerApp&theme=tokyonight&hide_border=true" alt="UOMPerApp" /></a>
 <a href="https://github.com/TusharDwarka/ROI-solar-photovoltaic"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TusharDwarka&repo=ROI-solar-photovoltaic&theme=tokyonight&hide_border=true" alt="ROI-solar-photovoltaic" /></a>
+<a href="https://github.com/TusharDwarka/UOMPerApp"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TusharDwarka&repo=UOMPerApp&theme=tokyonight&hide_border=true" alt="UOMPerApp" /></a>
 <a href="https://github.com/TusharDwarka/card_trap_gameRaylib"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TusharDwarka&repo=card_trap_gameRaylib&theme=tokyonight&hide_border=true" alt="card_trap_gameRaylib" /></a>
 
 <div align="center">
 
 ## 💻 Tech Stack
 
-**Languages**
+**Data Science & ML**
 
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-**Frameworks, Cloud & Data**
-
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Jupyter](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
+**Other Languages & Cloud**
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 
 **Tools & Design**
 
@@ -66,13 +69,9 @@
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=TusharDwarka&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TusharDwarka&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top languages" />
-
 <img src="https://streak-stats.demolab.com/?user=TusharDwarka&theme=tokyonight&hide_border=true" height="165" alt="GitHub streak" />
 
-<img src="https://ghchart.rshah.org/7aa2f7/TusharDwarka" alt="Contribution chart" width="100%" />
-
-![Profile views](https://komarev.com/ghpvc/?username=TusharDwarka&color=7aa2f7&style=flat-square)
+<img src="./activity-graph.svg" alt="Contribution activity graph" width="100%" />
 
 </div>
