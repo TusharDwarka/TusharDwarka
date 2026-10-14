@@ -10,6 +10,8 @@
 - 🛠️ Side projects: web tools, mobile apps and a card game in C
 - 💬 Ask me about Python, data wrangling or ML
 
+![Profile Views](https://komarev.com/ghpvc/?username=TusharDwarka&label=PROFILE+VIEWS&color=7aa2f7&style=for-the-badge)
+
 <br clear="both">
 
 ### <img src="https://cdn.simpleicons.org/spotify/1DB954" height="20" alt="Spotify" /> Now Playing
@@ -73,7 +75,5 @@
 <img src="https://streak-stats.demolab.com/?user=TusharDwarka&theme=tokyonight&hide_border=true" height="165" alt="GitHub streak" />
 
 <img src="./activity-graph.svg" alt="Contribution activity graph" width="100%" />
-
-<img src="https://komarev.com/ghpvc/?username=TusharDwarka&label=Profile+views&color=0e75b6&style=flat" alt="Profile views" />
 
 </div>
