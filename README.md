@@ -74,4 +74,6 @@
 
 <img src="./activity-graph.svg" alt="Contribution activity graph" width="100%" />
 
+<img src="https://komarev.com/ghpvc/?username=TusharDwarka&label=Profile+views&color=0e75b6&style=flat" alt="Profile views" />
+
 </div>
